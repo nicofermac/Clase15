@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Roboto:wght@100&display=swap");
+* {
+  font-family: Roboto, sans-serif;
+  color: white;
+}
+
+.fondo {
+  background-color: #1d1d1d;
+}
+
+.alturaIconos {
+  height: 30px;
+  padding: 5px;
+}
+
+.heroImage {
+  background-image: "img/hero.jpg";
+}
+
+.titulares {
+  font-size: 50px;
+}
+/*# sourceMappingURL=estilos.css.map */
